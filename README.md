@@ -11,3 +11,5 @@ Base model is calibrated so that observed (endogenous) releases from Lake Mead m
 The calibration uses 1st order conditions for income \ benefits maximization so that historically observed urban and ag use match the optimized amount by pulling just enough released water from Lake Mead for the optimized use to match historical use.
 
 For drought conditions (less than historical releases), we require Lake Mead to return to a known terminal condition typically matching initial conditions so there is plenty of freedom in reservoir operation to make up for possibly highly fluctuating inflows into lake Mead.
+
+Note for Reviewers: This repository currently contains the raw data for the GAMSPy optimization code. The underlying model will be uploaded for replication upon final publication.
