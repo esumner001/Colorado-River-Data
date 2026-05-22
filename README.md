@@ -1,6 +1,6 @@
 Model Code by Erin Sumner:
   Assistant Professor of Economics at Regis University and
-  PhD student Water Science and Management - NM State University with advice from advisers
+  PhD student Water Science and Management - NM State University
 
 With contribution from:
   Frank A. Ward (New Mexico State University) and
